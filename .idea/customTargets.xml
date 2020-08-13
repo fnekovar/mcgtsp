@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="abb1daf2-733c-45d1-b96e-eb354b10af79" name="t_mgctsp" defaultType="MAKE">
+      <configuration id="d5132188-4e5f-4d3d-94cb-d6e22e4d8f7c" name="t_mgctsp" toolchainName="Default">
+        <build type="MAKE">
+          <make targetName="t_mgctsp" />
+        </build>
+        <clean type="MAKE">
+          <make targetName="clean" />
+        </clean>
+      </configuration>
+    </target>
+  </component>
+</project>
